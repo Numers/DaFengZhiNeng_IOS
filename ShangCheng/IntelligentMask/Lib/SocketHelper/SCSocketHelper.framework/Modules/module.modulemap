@@ -1,0 +1,6 @@
+framework module SCSocketHelper {
+  umbrella header "SCSocketHelper.h"
+
+  export *
+  module * { export * }
+}

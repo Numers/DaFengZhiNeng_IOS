@@ -1,0 +1,74 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BaiduMapKit (2.9.1)
+  - CocoaAsyncSocket (7.4.3):
+    - CocoaAsyncSocket/All (= 7.4.3)
+  - CocoaAsyncSocket/All (7.4.3):
+    - CocoaAsyncSocket/GCD
+    - CocoaAsyncSocket/RunLoop
+  - CocoaAsyncSocket/GCD (7.4.3)
+  - CocoaAsyncSocket/RunLoop (7.4.3)
+  - MBProgressHUD (0.9.2)
+  - MPBluetoothKit (0.1.0)
+  - PNChart (0.8.8):
+    - UICountingLabel (~> 1.2.0)
+  - pop (1.0.9)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - UICountingLabel (1.2.0)
+  - UMengAnalytics-NO-IDFA (3.6.7)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.4)
+  - BaiduMapKit (~> 2.9.1)
+  - CocoaAsyncSocket
+  - MBProgressHUD (~> 0.8)
+  - MPBluetoothKit (~> 0.1.0)
+  - PNChart
+  - pop (~> 1.0)
+  - ReactiveCocoa
+  - SDWebImage (~> 3.6)
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  BaiduMapKit: 97d2d44b41a876de2371fb91ddf78cdf84dafa05
+  CocoaAsyncSocket: a18c75dca4b08723628a0bacca6e94803d90be91
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MPBluetoothKit: 40f9e1c3cf9f5d7357f344560015b8c8cc7f5b53
+  PNChart: 25f91e9c4688af49c3647489760624d037f5383f
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  UMengAnalytics-NO-IDFA: 6d02561a00579b2e37718f204eb81347df5d7b8b
+
+COCOAPODS: 0.39.0
